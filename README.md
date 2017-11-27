@@ -1,4 +1,8 @@
 # My-First-Repo
 
-# I like this git stuff...
-# It works good...
+git pull origin master
+git add -A
+git commit -m 'Comment'
+git push
+git status
+
