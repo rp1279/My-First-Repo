@@ -10,4 +10,5 @@ git push
 
 git status
 
+git mergetool
 
